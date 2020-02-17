@@ -8,12 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/83ecafb2-7fbf-4e2b-a0d9-8c6b5856c810.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/83ecafb2-7fbf-4e2b-a0d9-8c6b5856c810.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/springbook/user/dao/UserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/springbook/user/dao/UserDaoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springbook/user/dao/UserDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -83,11 +88,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="h2&#10;mysql" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -176,11 +181,35 @@
       <option name="presentableId" value="Default" />
       <updated>1581246648952</updated>
       <workItem from="1581246650157" duration="10376000" />
+      <workItem from="1581936372515" duration="1236000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="BRANCHES_LOG">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="chapter-3-2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="326" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581251055811">
@@ -195,26 +224,38 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="663" y="269" key="ExecutionTargetDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1581249800664" />
-    <state width="1040" height="318" key="GridCell.Tab.0.bottom" timestamp="1581258339008">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1581937689499">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1581937689499" />
     <state width="1040" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1581258339008" />
-    <state width="1040" height="318" key="GridCell.Tab.0.center" timestamp="1581258339007">
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1581937689498">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1581937689498" />
     <state width="1040" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1581258339007" />
-    <state width="1040" height="318" key="GridCell.Tab.0.left" timestamp="1581258339006">
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1581937689497">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1581937689497" />
     <state width="1040" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1581258339006" />
-    <state width="1040" height="318" key="GridCell.Tab.0.right" timestamp="1581258339008">
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1581937689499">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1581937689499" />
     <state width="1040" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1581258339008" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1581937708120">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1581937708120" />
     <state x="759" y="330" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1581250116288">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="759" y="330" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1581250116288" />
+    <state x="669" y="466" key="git4idea.ui.GitStashDialog" timestamp="1581937609392">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="669" y="466" key="git4idea.ui.GitStashDialog/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1581937609392" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1581252451386">
       <screen x="0" y="23" width="1792" height="1013" />
     </state>
@@ -224,5 +265,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="529" y="251" key="spring file set editor/0.0.1792.1120@0.0.1792.1120" timestamp="1581250264128" />
+    <state x="734" y="358" key="svn.repositoryBrowser" timestamp="1581937523872">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="734" y="358" key="svn.repositoryBrowser/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1581937523872" />
   </component>
 </project>
